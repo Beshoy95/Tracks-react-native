@@ -1,8 +1,6 @@
 # tracks
 
-![Capture](https://user-images.githubusercontent.com/67917734/94352602-6a4d1480-0067-11eb-8b69-64c7675b85eb.PNG)
 
-
-![Capture1](https://user-images.githubusercontent.com/67917734/94352606-746f1300-0067-11eb-864c-b2f35de4d15d.PNG)
-
-![Capture2](https://user-images.githubusercontent.com/67917734/94352609-7a64f400-0067-11eb-9b5a-adf2a67d653a.PNG)
+![Capture](https://user-images.githubusercontent.com/67917734/94352702-d9773880-0068-11eb-848a-36973a16fee0.PNG)
+![Capture1](https://user-images.githubusercontent.com/67917734/94352705-de3bec80-0068-11eb-9597-dd214836adb5.PNG)
+![Capture2](https://user-images.githubusercontent.com/67917734/94352706-e1cf7380-0068-11eb-9ce8-5009679470c7.PNG)
